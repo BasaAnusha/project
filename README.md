@@ -19,9 +19,8 @@
 ![Screenshot (5)](https://github.com/BasaAnusha/project/assets/113752183/7bc219ff-cc4f-4535-b262-081fcdff482d)
 ![Screenshot (4)](https://github.com/BasaAnusha/project/assets/113752183/0e1590c8-4054-448c-b309-4214c21c55e3)
 ![Screenshot (3)](https://github.com/BasaAnusha/project/assets/113752183/e1b03354-56ed-4d20-adf7-16ec66cad163)
-![Screenshot (2)](https://github.com/BasaAnusha/project/assets/113752183/f1e54c2f-e430-4d90-b936-1ce4a156573b)
 
-![Screenshot (1)](https://github.com/BasaAnusha/project/assets/113752183/ceedb999-8028-4f46-b9d6-1b034f5ef314)
+
 
 
    
