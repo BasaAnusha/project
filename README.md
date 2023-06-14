@@ -18,13 +18,16 @@
  ## Contact
  
  ![Screenshot (6)](https://github.com/BasaAnusha/project/assets/113752183/74babf9f-86b5-4c20-8dac-d7d09a741ce3)257b289-9738-42a6-8c9c-fbe89edd1e80)
- ## About
+ 
+ ## Services
 
 ![Screenshot (5)](https://github.com/BasaAnusha/project/assets/113752183/7bc219ff-cc4f-4535-b262-081fcdff482d)
 
-## Home
+## About
 
 ![Screenshot (4)](https://github.com/BasaAnusha/project/assets/113752183/0e1590c8-4054-448c-b309-4214c21c55e3)
+
+## Home
 
 ![Screenshot (3)](https://github.com/BasaAnusha/project/assets/113752183/e1b03354-56ed-4d20-adf7-16ec66cad163)
 
@@ -32,12 +35,6 @@
 
 
 ![Screenshot (7)](https://github.com/BasaAnusha/project/assets/113752183/9278f443-bb2b-46db-a05d-84ca5e51fe6e)
-
-
-
-   
-
-
 
 
 ## Tech Stack 💻
