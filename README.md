@@ -17,7 +17,7 @@
  
  ## Contact
  
- ![Screenshot (6)](https://github.com/BasaAnusha/project/assets/113752183/74babf9f-86b5-4c20-8dac-d7d09a741ce3)257b289-9738-42a6-8c9c-fbe89edd1e80)
+ ![Screenshot (6)](https://github.com/BasaAnusha/project/assets/113752183/74babf9f-86b5-4c20-8dac-d7d09a741ce3)
  
  ## Services
 
